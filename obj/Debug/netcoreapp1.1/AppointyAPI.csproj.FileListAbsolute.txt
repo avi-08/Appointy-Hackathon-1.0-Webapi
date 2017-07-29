@@ -1,0 +1,8 @@
+C:\Users\dell.Dell-PC\Desktop\AppointyAPI\bin\Debug\netcoreapp1.1\AppointyAPI.deps.json
+C:\Users\dell.Dell-PC\Desktop\AppointyAPI\bin\Debug\netcoreapp1.1\AppointyAPI.runtimeconfig.json
+C:\Users\dell.Dell-PC\Desktop\AppointyAPI\bin\Debug\netcoreapp1.1\AppointyAPI.runtimeconfig.dev.json
+C:\Users\dell.Dell-PC\Desktop\AppointyAPI\bin\Debug\netcoreapp1.1\AppointyAPI.dll
+C:\Users\dell.Dell-PC\Desktop\AppointyAPI\bin\Debug\netcoreapp1.1\AppointyAPI.pdb
+C:\Users\dell.Dell-PC\Desktop\AppointyAPI\obj\Debug\netcoreapp1.1\AppointyAPI.AssemblyInfo.cs
+C:\Users\dell.Dell-PC\Desktop\AppointyAPI\obj\Debug\netcoreapp1.1\AppointyAPI.dll
+C:\Users\dell.Dell-PC\Desktop\AppointyAPI\obj\Debug\netcoreapp1.1\AppointyAPI.pdb
